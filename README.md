@@ -338,8 +338,10 @@ Python • Machine Learning • Data Science • Classification • Regression �
 
 📊 Data Science & Machine Learning Enthusiast
 
-🔗 GitHub: https://github.com/23it101PopatHemangi
+🔗 GitHub: https://github.com/Rutu28022005
 
 --
 
 ⭐ If you found this repository useful, consider giving it a star!
+
+-- 
