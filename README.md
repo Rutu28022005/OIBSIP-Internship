@@ -223,7 +223,7 @@ Built a reliable sales forecasting model that helps optimize marketing strategie
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OIBSIP.git
+git clone https://github.com/Rutu28022005/OIBSIP-Internship.git
 
 cd OIBSIP
 ```
@@ -324,6 +324,7 @@ Python • Machine Learning • Data Science • Classification • Regression �
 * Oasis Infobyte for providing the Data Science Internship opportunity and project framework.
 * Scikit-Learn Community for open-source machine learning tools.
 * Python Community for powerful data science libraries.
+* CHARUSAT University for continuous academic support and learning opportunities.
 
 ---
 
@@ -331,10 +332,14 @@ Python • Machine Learning • Data Science • Classification • Regression �
 
 **Rutu Sheladiya**
 
-🎓 B.Tech Student
+🎓 Information Technology Student
+
+🏫 CSPIT, CHARUSAT University
 
 📊 Data Science & Machine Learning Enthusiast
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
+🔗 GitHub: https://github.com/23it101PopatHemangi
+
+--
 
 ⭐ If you found this repository useful, consider giving it a star!
