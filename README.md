@@ -330,7 +330,7 @@ Python • Machine Learning • Data Science • Classification • Regression �
 
 # 👨‍💻 Author
 
-**Rutu Sheladiya**
+##**Rutu Sheladiya**
 
 🎓 Information Technology Student
 
@@ -342,6 +342,5 @@ Python • Machine Learning • Data Science • Classification • Regression �
 
 --
 
-⭐ If you found this repository useful, consider giving it a star!
+##⭐ If you found this repository useful, consider giving it a star!
 
--- 
